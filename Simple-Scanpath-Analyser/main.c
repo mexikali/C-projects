@@ -1,6 +1,6 @@
-#include<stdio.h>               //e231553
-#include<stdlib.h>              //Ömer Faruk Sezen
-#include<string.h>              //Section-2
+#include<stdio.h>        
+#include<stdlib.h>          
+#include<string.h>            
 
 //I defined this structure to store the information in the Aois file.
 struct areas{
